@@ -31,7 +31,9 @@ Solution: Used CSS Grid and media queries to adapt the layout for mobile, tablet
 # How to view this website:
 1. Download the project files
 2. Open index.html and Go Live
-3. or Visit []
+3. or Visit [https://sumangrewal202004-coder.github.io/Gym-Website/]
+   or [https://gym-website-red-three.vercel.app/]
+
 
 
 
